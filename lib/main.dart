@@ -152,7 +152,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
           // audioCache.play('booked.mp3', volume: 5);
         },
-        tooltip: 'Increment',
+        tooltip: 'Increments',
         child: Icon(Icons.add),
       ), // This trailing comma makes auto-formatting nicer for build methods.
     );
